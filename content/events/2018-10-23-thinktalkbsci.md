@@ -5,7 +5,7 @@ date = 2018-10-23
 template = "post.html"
 
 [taxonomies]
-tags = ["food"]
+tags = ["food","no-timeline-display"]
 +++
 
 Join ACM UMN and Boston Scientific for a Think Talk!
